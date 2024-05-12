@@ -35,4 +35,5 @@ Este projeto é licenciado sob a [Licença MIT](LICENSE).
 
 ## Contato
 
+Está no inicio do projeto e será atualizado em breve!!!
 Se você tiver alguma dúvida, sugestão ou feedback sobre este projeto, sinta-se à vontade para abrir uma issue ou entrar em contato diretamente pelo e-mail [abnerguimaraes@sou.unifal-mg.edu.br](mailto:abnerguimaraes@sou.unifal-mg.edu.br).
