@@ -29,10 +29,6 @@ Por favor, consulte o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para obter mais
 - [Princípios SOLID de Design de Software](https://en.wikipedia.org/wiki/SOLID)
 - [Clean Code: A Handbook of Agile Software Craftsmanship - Wikipedia](https://en.wikipedia.org/wiki/Clean_Code)
 
-![Clean Code Book](https://images.ctfassets.net/bp521nfj3cq3/6WidBugEmgAhxolPdO4Xiv/b4e5a919da156bf22d62e00fdd8c55eb/41IRFCLk-kL.jpeg)
-
-*Imagem: Capa do livro "Clean Code" de Robert C. Martin, que inspirou este repositório.*
-
 ## Licença
 
 Este projeto é licenciado sob a [Licença MIT](LICENSE).
